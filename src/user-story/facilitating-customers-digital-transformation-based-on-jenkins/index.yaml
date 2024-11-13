@@ -15,6 +15,12 @@ metadata:
     - Alauda
   platforms:
     - Linux
+  version_control_systems:
+    - github
+  build_tools:
+    - Gradle
+  community_supports:
+    - Jenkins.io websites & blogs
 quotes: []
 map:
   name: yuzhipeng
